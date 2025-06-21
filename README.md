@@ -16,7 +16,7 @@ Copy the Tasmota console output from the Portisch command 'rfraw 177' into the i
 ![convertion example](window_example.jpg)
 
 # resources
-##links
+## links
 - https://github.com/Portisch/RF-Bridge-EFM8BB1/wiki/
 - https://github.com/Portisch/Sonoff-Tasmota
 - https://tasmota.github.io/docs/
